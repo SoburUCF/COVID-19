@@ -18,6 +18,7 @@ To calculate the flu case rate per 100k population and death rate per 1M populat
 were collected from US Census Bureau
 https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html 
 
-Weekly Flu case data were collected from CDC FluView database
-https://www.cdc.gov/fluview/overview/fluview-interactive.html?CDC_AAref_Val=https://www.cdc.gov/flu/weekly/fluviewinteractive.htm 
+Weekly Flu case data were collected from CDC FluView database <br />
+https://www.cdc.gov/fluview/overview/fluview-interactive.html?CDC_AAref_Val=https://www.cdc.gov/flu/weekly/fluviewinteractive.htm <br />
+
 We used CDC's US Outpatient Influenza-like Illness Surveillance Network (ILINet) database from 2018-19 to 2023-24 flu seasons in US
