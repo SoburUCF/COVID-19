@@ -20,3 +20,4 @@ https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.htm
 
 Weekly Flu case data were collected from CDC FluView database
 https://www.cdc.gov/fluview/overview/fluview-interactive.html?CDC_AAref_Val=https://www.cdc.gov/flu/weekly/fluviewinteractive.htm 
+We used CDC's US Outpatient Influenza-like Illness Surveillance Network (ILINet) database from 2018-19 to 2023-24 flu seasons in US
